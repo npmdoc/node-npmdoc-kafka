@@ -1,4 +1,7 @@
-# api documentation for  [kafka (v0.2.3)](https://github.com/marcuswestin/node-kafka)  [![npm package](https://img.shields.io/npm/v/npmdoc-kafka.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-kafka) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-kafka.svg)](https://travis-ci.org/npmdoc/node-npmdoc-kafka)
+# npmdoc-kafka
+
+#### basic api documentation for  [kafka (v0.2.3)](https://github.com/marcuswestin/node-kafka)  [![npm package](https://img.shields.io/npm/v/npmdoc-kafka.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-kafka) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-kafka.svg)](https://travis-ci.org/npmdoc/node-npmdoc-kafka)
+
 #### A node client for Kafka
 
 [![NPM](https://nodei.co/npm/kafka.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/kafka)
@@ -60,7 +63,8 @@
         "type": "git",
         "url": "git://github.com/marcuswestin/node-kafka.git"
     },
-    "version": "0.2.3"
+    "version": "0.2.3",
+    "bin": {}
 }
 ```
 
